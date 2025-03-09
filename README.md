@@ -16,7 +16,6 @@ O site aborda os desafios enfrentados por estudantes e jovens profissionais dian
 
 - **🏠 Página Inicial (`index.html`)** – Apresenta as principais notícias e destaques do jornal.  
 - **📰 Últimas Notícias (`latest_news.html`)** – Seção dedicada às notícias mais recentes.  
-- **📑 Detalhes das Notícias (`details_principalnews.html`)** – Página com informações completas sobre as matérias principais.  
 - **📂 Categorias (`categorias.html`)** – Organização dos conteúdos por temas.  
 - **ℹ️ Sobre (`about.html`)** – Informações sobre o projeto e seus desenvolvedores.  
 - **📩 Contato (`contact.html`)** – Formulário ou informações para contato com os responsáveis pelo site.  
