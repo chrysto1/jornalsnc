@@ -1,6 +1,6 @@
 # Jornal SNC  
 
-Projeto integrador desenvolvido por alunos do Senac, criado por **João Chrystian**.  
+Site desenvolvido com o objetivo de apresentação de Projeto Integrador de alunos do SENAC 
 
 ## 📌 Sobre o site  
 
